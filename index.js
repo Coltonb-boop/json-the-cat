@@ -8,4 +8,4 @@ fetchBreedDescription(input, (error, desc) => {
   } else {
     console.log(desc);
   }
-})
+});
